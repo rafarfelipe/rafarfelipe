@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Olá, eu sou Rafael Felipe! | **`QA Tester`**
+# 👨🏻‍💻 Olá, eu sou Rafael Felipe! | **`QA Engineer`**
 
 <br/>
 
