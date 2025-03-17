@@ -1,8 +1,7 @@
 ### 👨🏻‍💻 Rafael Felipe
 
-### **`QA Tester`**
 
-#### Me chamo Rafael Rodrigues Felipe, tenho 33 anos e atualmente estou cursando Engenharia de Software na Estácio. Recentemente, comecei minha jornada na área de QA (Quality Assurance), atuando há 1 mês. Estou estudando Testes Manuais, Testes de Automação e Testes de API com Cypress, Playwright, Postman e Robot Framework. Além disso, venho aprimorando meus conhecimentos em linguagens de programação como JavaScript, Python e TypeScript. Busco sempre aprender mais sobre qualidade de software, automação de testes e boas práticas para garantir sistemas mais robustos e confiáveis.
+# Olá, eu sou Rafael Felipe! | # **`QA Tester`**
 
 <br/>
 
