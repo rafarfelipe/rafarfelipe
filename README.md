@@ -1,7 +1,4 @@
-### 👨🏻‍💻 Rafael Felipe
-
-
-# Olá, eu sou Rafael Felipe! | # **`QA Tester`**
+# 👨🏻‍💻 Olá, eu sou Rafael Felipe! | # **`QA Tester`**
 
 <br/>
 
