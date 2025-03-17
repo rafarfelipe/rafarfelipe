@@ -1,19 +1,16 @@
-# 👨🏻‍💻 Rafael Felipe
+### 👨🏻‍💻 Rafael Felipe
 
-**`QA Tester`**
+### **`QA Tester`**
 
-Me chamo Rafael Rodrigues Felipe, tenho 33 anos e atualmente estou cursando Engenharia de Software na Estácio. Recentemente, comecei minha jornada na área de QA (Quality Assurance), atuando há 1 mês. Estou estudando Testes Manuais, Testes de Automação e Testes de API com Cypress, Playwright, Postman e Robot Framework. Além disso, venho aprimorando meus conhecimentos em linguagens de programação como JavaScript, Python e TypeScript. Busco sempre aprender mais sobre qualidade de software, automação de testes e boas práticas para garantir sistemas mais robustos e confiáveis.
+#### Me chamo Rafael Rodrigues Felipe, tenho 33 anos e atualmente estou cursando Engenharia de Software na Estácio. Recentemente, comecei minha jornada na área de QA (Quality Assurance), atuando há 1 mês. Estou estudando Testes Manuais, Testes de Automação e Testes de API com Cypress, Playwright, Postman e Robot Framework. Além disso, venho aprimorando meus conhecimentos em linguagens de programação como JavaScript, Python e TypeScript. Busco sempre aprender mais sobre qualidade de software, automação de testes e boas práticas para garantir sistemas mais robustos e confiáveis.
+
+<br/>
 
 <div> 
-  <a href="https://www.instagram.com/rafarfelipe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
- <a href="mailto:rafarfelipe91@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/rafaelrfelipe/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/rafaelrfelipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/rafarfelipe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:rafarfelipe91@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaelrfelipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/rafarfelipe" target="_blank"><img src="https://img.shields.io/github/followers/rafarfelipe?style=for-the-badge&logo=github&label=followers&color=black&labelColor=darkmagenta" target="_blank"></a>
 </div>
 
 ### 🤖 Linguagens e Tecnologias
@@ -109,13 +106,7 @@ Me chamo Rafael Rodrigues Felipe, tenho 33 anos e atualmente estou cursando Enge
     align="left" 
     alt="GitHub Stats"
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=rafarfelipe&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
-/>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarfelipe&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=rafarfelipe&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" />
+<img  align="left" alt="GitHub Stats" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarfelipe&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
 </p>
