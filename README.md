@@ -114,4 +114,4 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/rafarfelipe/gitrepo/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/rafarfelipe/rafarfelipe/blob/output/github-snake.svg)
