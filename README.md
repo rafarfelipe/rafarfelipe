@@ -114,4 +114,6 @@
   </tr>
 </table>
 
-![Snake animation](https://github.com/rafarfelipe/rafarfelipe/blob/output/github-snake.svg)
+### 🐍 Contribuições
+
+![Snake animation](https://github.com/rafarfelipe/rafarfelipe/blob/output/snake.svg)
