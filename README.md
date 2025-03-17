@@ -114,3 +114,4 @@
   </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/rafarfelipe/gitrepo/output/snake.svg" alt="Snake animation" />
