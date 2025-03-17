@@ -97,12 +97,20 @@
 
 ### 📊 Estatísticas
 
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats"
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=rafarfelipe&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" />
-<img  align="left" alt="GitHub Stats" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarfelipe&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats"
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=rafarfelipe&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" />
+    </td>
+    <td>
+      <img  
+        alt="Tecnologias Mais Usadas" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarfelipe&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </td>
+  </tr>
+</table>
 
-</p>
