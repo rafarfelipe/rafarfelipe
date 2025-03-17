@@ -13,9 +13,7 @@ Me chamo Rafael Rodrigues Felipe, tenho 33 anos e atualmente estou cursando Enge
 <a href="https://www.linkedin.com/in/rafaelrfelipe/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<a href="https://github.com/rafarfelipe" target="_blank">
-  <img src="https://img.shields.io/github/followers/rafarfelipe?style=for-the-badge&logo=github&label=followers&color=black&labelColor=darkmagenta" target="_blank">
-</a>
+<a href="https://www.linkedin.com/in/rafaelrfelipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ### 🤖 Linguagens e Tecnologias
