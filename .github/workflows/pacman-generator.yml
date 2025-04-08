@@ -2,30 +2,29 @@ name: generate pacman game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
+    name: Generate Pac-Man contribution graph
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
       
       - name: Generate Pac-Man SVG
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: rafarfelipe
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
-          type: github-snake-eating
+            dist/pacman-contribution-graph.svg?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/pacman-contribution-graph-dark.svg?color_snake=blue&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&palette=github-dark
+          type: "github-snake-eating-game"
       
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
