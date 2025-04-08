@@ -103,6 +103,7 @@
         height="200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarfelipe&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" />
     </td>
+      
   </tr>
 </table>
 
@@ -111,3 +112,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph.svg">
 </picture>
+
+![Pac-Man GitHub Contributions](https://github.com/rafarfelipe/rafarfelipe/blob/main/pacman-contribution-graph.svg)
