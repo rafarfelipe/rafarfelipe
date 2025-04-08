@@ -106,13 +106,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarfelipe&layout=compact&langs_count=20&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafarfelipe&theme=tokyonight" />
-</div>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph.svg">
