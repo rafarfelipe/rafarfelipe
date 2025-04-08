@@ -25,8 +25,7 @@ jobs:
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
-          type: github-snake
-          snake_color: blue
+          type: github-snake-eating
       
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
