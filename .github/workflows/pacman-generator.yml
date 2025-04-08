@@ -16,17 +16,28 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: rafarfelipe
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Verificar se o diretório de saída existe
+      - name: Verify output directory
+        run: |
+          mkdir -p dist
+          cp -r ./*.svg dist/ || echo "No SVG files found in root directory"
+          ls -la dist/
+        
       # Push the generated SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update Pacman contribution graph"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
