@@ -12,7 +12,7 @@
 
 <h2 align="center">📫 Conecte-se comigo!</h2>
 <div align="center">
-  <p>Você pode me encontrar nos 👉🏻 <a href="https://www.instagram.com/rafarfelipe"></a></p>
+  <p>Você pode me encontrar nos 👇🏻 <a href="https://www.instagram.com/rafarfelipe"></a></p>
 <a href="https://www.instagram.com/rafarfelipe"><img src="https://img.shields.io/badge/instagram-9370db?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/rafaelrfelipe/"><img src="https://img.shields.io/badge/linkedin-9370db?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://rafarfelipe91@gmail.com"><img src="https://img.shields.io/badge/gmail-9370db?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -31,22 +31,9 @@
 <td valign="top" width="70%">
 <h3 align="center">Ferramentas e Tecnologias</h3>
 <div align="center">  
-  <a href="https://git-scm.com/docs/git/pt_BR"><img src="https://skillicons.dev/icons?i=git"></a>
-  <a href="https://docs.github.com/pt"><img src="https://skillicons.dev/icons?i=github"></a>
-  <a href="https://docs.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab"></a>
-  <a href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"><img src="https://skillicons.dev/icons?i=md"></a>
   <a href="https://docs.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress"></a>
   <a href="https://playwright.dev/docs/intro"><img src="https://skillicons.dev/icons?i=playwright"></a>
   <a href="https://www.selenium.dev/documentation/"><img src="https://skillicons.dev/icons?i=selenium"></a>
-  <a href="https://learn.microsoft.com/pt-br/azure/"><img src="https://skillicons.dev/icons?i=azure"></a>
-  <a href="https://learn.microsoft.com/pt-br/visualstudio/windows/?view=vs-2022"><img src="https://skillicons.dev/icons?i=visualstudio"></a>
-  <a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode"></a>
-  <a href="https://docs.openshift.com/"><img src="https://skillicons.dev/icons?i=openshift"></a>
-  <a href="https://docs.redhat.com/pt-br"><img src="https://skillicons.dev/icons?i=redhat"></a>
-  <a href="https://swagger.io/docs/"><img width="48" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/swagger.svg"></a>
-  <a href="https://learn.microsoft.com/pt-br/powershell/"><img src="https://skillicons.dev/icons?i=powershell"></a>
-  <a href="https://www.notion.com/pt/help/guides/category/documentation"><img src="https://skillicons.dev/icons?i=notion"></a>
-  <a href="https://help.figma.com/hc/pt-br"><img src="https://skillicons.dev/icons?i=figma"></a> <a href="https://learn.microsoft.com/en-us/linkedin/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </div></td></tr>
 </table> 
 <br/>
