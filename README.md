@@ -12,10 +12,11 @@
 
 <h2 align="center">💬 Sobre Mim</h2>
 <div align="center">
-<p>Sou profissional de Qualidade de Software (QA) apaixonado por tecnologia e melhoria contínua.
-Atuo garantindo a confiabilidade de aplicações através de testes manuais e automação E2E.
-Tenho experiência com Cypress, Playwright, Selenium, JavaScript, Java e Python, aplicando metodologias ágeis e práticas como BDD.
-Acredito que qualidade não é apenas encontrar bugs, mas prevenir falhas e contribuir para produtos digitais de alto desempenho.</p>
+<p>Sou profissional de Qualidade de Software (QA), apaixonado por tecnologia e melhoria contínua.
+Minha jornada começou no desenvolvimento, mas encontrei meu propósito na área de QA.
+
+Atuo com testes manuais e automação E2E, utilizando Cypress, Playwright e Selenium, além de JavaScript, Java e Python, aplicando metodologias ágeis e práticas como BDD.
+Acredito que qualidade vai além de encontrar bugs: é prevenir falhas e entregar produtos confiáveis e de alto desempenho.</p>
 </div>
 <br/>
 
