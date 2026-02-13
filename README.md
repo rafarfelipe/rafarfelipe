@@ -65,21 +65,6 @@ Acredito que qualidade vai além de encontrar bugs: é prevenir falhas e entrega
 
 
  #
-  
-<td valign="top" width="70%">
-<h3 align="center">Ferramentas e Tecnologias</h3>
-<div align="center">  
-  <a href="https://docs.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress"></a>
-  <a href="https://playwright.dev/docs/intro"><img src="https://skillicons.dev/icons?i=playwright&theme=light"></a>
-  <a href="https://www.selenium.dev/documentation/"><img src="https://skillicons.dev/icons?i=selenium"></a>
-  <a href="https://learning.postman.com/docs/getting-started/overview/"><img src="https://skillicons.dev/icons?i=postman"></a>
-  <a href="https://swagger.io/docs/"><img width="48" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/swagger.svg"></a>
-  <a href="https://docs.github.com/actions"><img src="https://skillicons.dev/icons?i=githubactions"></a>
-  <a href="https://support.atlassian.com/jira-software-cloud/"><img src="https://skillicons.dev/icons?i=jira"></a>
-  <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker"></a>
-</div></td></tr>
-</table> 
-<br/>
 
 <h2 align="center">🐙 GitHub Stats</h2> 
 <div align="center">
