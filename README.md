@@ -34,14 +34,22 @@ Acredito que qualidade vai além de encontrar bugs: é prevenir falhas e entrega
 </div> 
 <br/>
 
-<h2 align="center">🛠️ Habilidades Técnicas</h2>
-<table align="center" style="margin: 0 auto;">
-<tr><td valign="top" width="30%">
-<h3 align="center">Linguagens</h3>
-<div align="center">  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript"></a>
-  <a href="https://docs.python.org/pt-br/"><img src="https://skillicons.dev/icons?i=python"></a>
-</div></td>
+<h2 align="center">🛠️ Minhas Stacks</h2>
+<br>
+
+
+<div>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+  
+ </div>
+
+
+ #
   
 <td valign="top" width="70%">
 <h3 align="center">Ferramentas e Tecnologias</h3>
