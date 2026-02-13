@@ -1,6 +1,7 @@
 <a href="https://github.com/rafarfelipe"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9370db"/></a>
 <h1 align="center">👋🏻 Olá, sou Rafael Felipe!</h1>
 <img align="right" width="250" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/cat.gif"> 
+🌍 Apaixonada por Tecnologia  
 
 👩🏼‍💻 QA (Quality Assurance / Software Tester) 
 🎓 Cursando Engenharia de Software | 3º Período   
