@@ -30,19 +30,20 @@ Acredito que qualidade vai além de encontrar bugs: é prevenir falhas e entrega
 <div align="center">
   <p>Você pode me encontrar nos 👇🏻</p>
 
-  <a href="https://www.instagram.com/rafarfelipe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-9370db?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/rafarfelipe">
+    <img src="https://img.shields.io/badge/Instagram-66298f?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/rafaelrfelipe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9370db?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rafaelrfelipe/">
+    <img src="https://img.shields.io/badge/LinkedIn-66298f?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:rafarfelipe91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-9370db?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-66298f?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 <br/>
+
 
 <h2 align="center">🛠️ Minhas Stacks</h2>
 <br>
