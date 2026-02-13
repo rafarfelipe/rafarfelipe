@@ -21,8 +21,15 @@
 
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
 <table>
-<tr><td valign="top" width="100%">
-<h3 align="center">QA</h3>
+<tr><td valign="top" width="30%">
+<h3 align="center">Linguagens</h3>
+<div align="center">  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript"></a>
+  <a href="https://docs.python.org/pt-br/"><img src="https://skillicons.dev/icons?i=python"></a>
+</div></td>
+  
+<td valign="top" width="70%">
+<h3 align="center">Ferramentas e Tecnologias</h3>
 <div align="center">  
   <a href="https://docs.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress"></a>
   <a href="https://playwright.dev/docs/intro"><img src="https://skillicons.dev/icons?i=playwright"></a>
