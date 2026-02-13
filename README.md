@@ -10,6 +10,15 @@
 <br/>
 <br/>
 
+<h2 align="center">💬 Sobre Mim</h2>
+<div align="center">
+<p>Sou profissional de Qualidade de Software (QA) apaixonado por tecnologia e melhoria contínua.
+Atuo garantindo a confiabilidade de aplicações através de testes manuais e automação E2E.
+Tenho experiência com Cypress, Playwright, Selenium, JavaScript, Java e Python, aplicando metodologias ágeis e práticas como BDD.
+Acredito que qualidade não é apenas encontrar bugs, mas prevenir falhas e contribuir para produtos digitais de alto desempenho.</p>
+</div>
+<br/>
+
 <h2 align="center">📫 Conecte-se comigo!</h2>
 <div align="center">
   <p>Você pode me encontrar nos 👇🏻 <a href="https://www.instagram.com/rafarfelipe"></a></p>
