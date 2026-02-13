@@ -1,8 +1,7 @@
 <a href="https://github.com/rafarfelipe"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9370db"/></a>
 <h1 align="center">👋🏻 Olá, sou Rafael Felipe!</h1>
-<img align="right" width="250" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/cat.gif"> 
-🌍 Apaixonada por Tecnologia  
-
+<img align="right" width="250">
+ 
 👩🏼‍💻 QA (Quality Assurance / Software Tester) 
 🎓 Cursando Engenharia de Software | 3º Período   
 <br/>
@@ -13,7 +12,7 @@
 
 <h2 align="center">📫 Conecte-se comigo!</h2>
 <div align="center">
-  <p>Você pode me encontrar nos 👉🏻 <a href="https://www.instagram.com/rafarfelipe"></a> ou clicando nos links abaixo. 👇🏼</p>
+  <p>Você pode me encontrar nos 👉🏻 <a href="https://www.instagram.com/rafarfelipe"></a></p>
 <a href="https://www.instagram.com/rafarfelipe"><img src="https://img.shields.io/badge/instagram-9370db?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/rafaelrfelipe/"><img src="https://img.shields.io/badge/linkedin-9370db?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://rafarfelipe91@gmail.com"><img src="https://img.shields.io/badge/gmail-9370db?style=for-the-badge&logo=gmail&logoColor=white"></a>
