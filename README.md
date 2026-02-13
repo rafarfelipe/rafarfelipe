@@ -1,14 +1,19 @@
-<a href="https://github.com/rafarfelipe"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9370db"/></a>
+<a href="https://github.com/rafarfelipe">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9370db"/>
+</a>
+
 <h1 align="center">👋🏻 Olá, sou Rafael Felipe!</h1>
-<img align="right" width="250">
- 
-👩🏼‍💻 QA (Quality Assurance / Software Tester) 
-🎓 Cursando Engenharia de Software | 3º Período   
+
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<p>🌍 Apaixonado por Tecnologia</p>
+<p>🧪 QA (Quality Assurance / Software Tester)</p>
+<p>🎓 Cursando Engenharia de Software | 3º Período</p>
+<p>🚀 Testes Manuais e Automação E2E</p>
+
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 <h2 align="center">💬 Sobre Mim</h2>
 <div align="center">
