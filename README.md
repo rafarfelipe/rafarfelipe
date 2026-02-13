@@ -38,7 +38,7 @@ Acredito que qualidade vai além de encontrar bugs: é prevenir falhas e entrega
 <br>
 
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -48,6 +48,7 @@ Acredito que qualidade vai além de encontrar bugs: é prevenir falhas e entrega
   <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=white"/>
 </div>
+
   
  </div>
 
