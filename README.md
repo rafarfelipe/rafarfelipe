@@ -20,7 +20,7 @@
 <br/>
 
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
-<table>
+<table align="center" style="margin: 0 auto;">
 <tr><td valign="top" width="30%">
 <h3 align="center">Linguagens</h3>
 <div align="center">  
