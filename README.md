@@ -1,6 +1,8 @@
-<a href="https://github.com/rafarfelipe">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9370db"/>
-</a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a4a7a,100:2d7cc4&height=120&section=header"/>
+
+<br/>
 
 <h1 align="center">👋🏻 Olá, sou Rafael Felipe!</h1>
 
