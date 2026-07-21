@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1200&color=00D4AA&center=true&vCenter=true&random=false&width=950&lines=QA+Engineer+%F0%9F%94%A5;SDET+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Test+Automation+Architect;CI%2FCD+Pipeline+Expert;Quality+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1500&color=00D4AA&center=true&vCenter=true&random=false&width=1000&lines=QA+Engineer+%F0%9F%94%A5;SDET+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Test+Automation+Architect;CI%2FCD+Pipeline+Expert;Quality+Advocate)](https://git.io/typing-svg)
 
 </div>
 
@@ -151,6 +151,7 @@
 <div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelrfelipe/)
+[![Blog](https://img.shields.io/badge/Blog-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelrfelipe/recent-activity/articles/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafarfelipe91@gmail.com)
 
 </div>
