@@ -115,6 +115,7 @@
 | ♿ [**Cypress-Automacao-Acessibilidade**](https://github.com/rafarfelipe/Cypress-Automacao-Acessibilidade) | Testes automatizados WCAG 2.1 AA com axe-core | Cypress, axe-core, JavaScript | **A11y como quality gate** |
 | 🐛 [**starbugs-cucumber-automation**](https://github.com/rafarfelipe/starbugs-cucumber-automation) | BDD completo: Gherkin + Step Definitions + Reports | Playwright, Cucumber, TypeScript | **Living documentation** |
 | 🎵 [**Parodify-playwright-tests**](https://github.com/rafarfelipe/Parodify-playwright-tests) | E2E em app React/Next.js (auth, player, playlist) | Playwright, TypeScript, POM | **Testes em app real complexo** |
+| 📱 [**maestro-testes-mobile**](https://github.com/rafarfelipe/maestro-testes-mobile) | Automação de testes E2E mobile com Maestro em CI | Maestro, TypeScript, GitHub Actions | **Testes mobile automatizados** |
 
 > 💡 **Todos os projetos possuem:** CI/CD configurado, relatórios Allure, Docker support, documentação técnica
 
