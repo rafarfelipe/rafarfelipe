@@ -81,13 +81,13 @@
 
 ---
 
-## 🎮 **Contribution Snake Game**
+## 🎮 **Contribution Pacman Game**
 
 <div align="center">
 
-![Snake Contribution](https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/snake.svg)
+![Pacman Contribution](https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg)
 
-<sub>🐍 Gerado automaticamente via GitHub Actions a cada 12h · Branch: <code>output</code></sub>
+<sub>👻 Gerado automaticamente via GitHub Actions a cada 12h · Branch: <code>output</code></sub>
 
 </div>
 
