@@ -6,10 +6,9 @@
 
 <br/>
 
-<a href="https://github.com/rafarfelipe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://www.linkedin.com/in/rafaelrfelipe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://rafarfelipe.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/></a>
-<a href="mailto:rafarfelipe91@gmail.com"><img src="https://img.shields.io/badge/Email-6f42c1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/rafarfelipe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rafaelrfelipe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rafarfelipe91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -34,7 +33,7 @@ Atuo em toda a stack de qualidade — testes manuais exploratórios, automação
 <td valign="top" width="22%"><b>Linguagens</b></td>
 <td valign="top">
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" />
 
 </td>
 </tr>
@@ -46,13 +45,11 @@ Atuo em toda a stack de qualidade — testes manuais exploratórios, automação
 
 <br/>
 
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Maestro-7B2FFF?style=flat-square&logo=android&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/REST_Assured-00A98F?style=flat-square&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maestro-7B2FFF?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_Assured-00A98F?style=flat-square"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
 
 </td>
 </tr>
@@ -60,7 +57,7 @@ Atuo em toda a stack de qualidade — testes manuais exploratórios, automação
 <td valign="top"><b>Bancos de Dados</b></td>
 <td valign="top">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb&theme=dark" />
 
 </td>
 </tr>
@@ -76,9 +73,9 @@ Atuo em toda a stack de qualidade — testes manuais exploratórios, automação
 <td valign="top"><b>Gestão de QA</b></td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Xray-7B2FFF?style=flat-square&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square&logo=testrail&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xray-7B2FFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square&logo=testrail&logoColor=white"/>
 
 </td>
 </tr>
@@ -86,7 +83,7 @@ Atuo em toda a stack de qualidade — testes manuais exploratórios, automação
 <td valign="top"><b>Ferramentas & Editores</b></td>
 <td valign="top">
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,cursor&theme=dark" />
 
 </td>
 </tr>
@@ -107,40 +104,40 @@ Atuo em toda a stack de qualidade — testes manuais exploratórios, automação
 </thead>
 <tbody>
 <tr>
-<td><b>Suíte E2E Empresarial</b></td>
-<td>Automação Web</td>
-<td>Cypress · JavaScript · GitHub Actions</td>
-<td align="center">Ativo</td>
-</tr>
-<tr>
-<td><b>Framework de API REST</b></td>
-<td>Testes de API</td>
-<td>Postman · Newman · Node.js</td>
-<td align="center">Ativo</td>
-</tr>
-<tr>
-<td><b>Automação Mobile</b></td>
-<td>UI Mobile</td>
-<td>Maestro · YAML</td>
-<td align="center">Ativo</td>
-</tr>
-<tr>
-<td><b>Suíte Cross-Browser</b></td>
-<td>Automação Web</td>
-<td>Playwright · TypeScript · Docker</td>
-<td align="center">Ativo</td>
-</tr>
-<tr>
-<td><b>Ambiente de Testes Containerizado</b></td>
-<td>DevOps / CI</td>
-<td>Docker · GitHub Actions</td>
-<td align="center">Ativo</td>
-</tr>
-<tr>
-<td><b>Testes de Integridade de Dados</b></td>
+<td><b><a href="https://github.com/rafarfelipe/qa-sql-pro">qa-sql-pro</a></b></td>
 <td>Testes de Dados</td>
-<td>PostgreSQL · SQL · Python</td>
-<td align="center">Planejando</td>
+<td>PLpgSQL · SQL</td>
+<td align="center">Ativo</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/rafarfelipe/maestro-testes-mobile">maestro-testes-mobile</a></b></td>
+<td>Automação Mobile</td>
+<td>Maestro · TypeScript · GitHub Actions</td>
+<td align="center">Ativo</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/rafarfelipe/selenium-northwind">selenium-northwind</a></b></td>
+<td>Automação Web</td>
+<td>Selenium · Java · JUnit</td>
+<td align="center">Ativo</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/rafarfelipe/shortbeyond-e2e-performance">shortbeyond-e2e-performance</a></b></td>
+<td>Performance / E2E</td>
+<td>JavaScript</td>
+<td align="center">Ativo</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/rafarfelipe/projeto-playwright-QAx">projeto-playwright-QAx</a></b></td>
+<td>Automação Web</td>
+<td>Playwright · TypeScript</td>
+<td align="center">Ativo</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/rafarfelipe/betalent-qa-test-">betalent-qa-test-</a></b></td>
+<td>Automação Web</td>
+<td>JavaScript</td>
+<td align="center">Ativo</td>
 </tr>
 </tbody>
 </table>
@@ -235,6 +232,6 @@ Atuo em toda a stack de qualidade — testes manuais exploratórios, automação
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rafarfelipe&label=VISUALIZAÇÕES&color=58a6ff&style=for-the-badge&labelColor=0d1117" alt="Visualizações"/>
+<img src="https://komarev.com/ghpvc/?username=rafarfelipe&label=VISUALIZAÇÕES&color=blue&style=for-the-badge" alt="Visualizações"/>
 
 </div>
