@@ -61,10 +61,7 @@ Tenho interesse e venho aprimorando conhecimentos em **Quality Engineering, QAOp
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg"/>
-  <img alt="Gráfico Pokemon de Contribuições" src="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafarfelipe&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 
 </div>
 
