@@ -61,7 +61,7 @@ Tenho interesse e venho aprimorando conhecimentos em **Quality Engineering, QAOp
 
 <div align="center">
 
-<img src="https://reporamatic.vercel.app/api/pacman?user=rafarfelipe&theme=dark" width="100%" />
+<img src="https://streak-summary.vercel.app/api?user=rafarfelipe&theme=dark" width="100%" />
 
 </div>
 
