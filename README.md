@@ -51,6 +51,25 @@ Tenho interesse e venho aprimorando conhecimentos em **Quality Engineering, QAOp
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=left&color=0:6A00FF,100:00C9FF&height=240&section=header&text=Contribuições&fontSize=40&fontColor=ffffff&rotate=15&fontAlignY=35" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg"/>
+  <img alt="Gráfico Pokemon de Contribuições" src="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## Tecnologias
 
 <p align="center">
