@@ -36,23 +36,18 @@ Tenho interesse e venho aprimorando conhecimentos em **Quality Engineering, QAOp
 
 ## 📂 Projetos Iconicos
 
-### 1. **qa-sql-pro** 
-Testes de dados com PLpgSQL e SQL
+<div align="center">
 
-### 2. **maestro-testes-mobile** 
-Automação mobile com Maestro, TypeScript e GitHub Actions
+| # | Projeto | Descrição | Tech | Status |
+|---|---------|-----------|------|--------|
+| 1 | <a href="https://github.com/rafarfelipe/qa-sql-pro">qa-sql-pro</a> | Testes de dados com PLpgSQL | PostgreSQL | 🟢 Ativo |
+| 2 | <a href="https://github.com/rafarfelipe/maestro-testes-mobile">maestro-testes-mobile</a> | Automação mobile | Maestro, TS, GitHub Actions | 🟢 Ativo |
+| 3 | <a href="https://github.com/rafarfelipe/selenium-northwind">selenium-northwind</a> | Automação web | Selenium, Java, JUnit | 🟢 Ativo |
+| 4 | <a href="https://github.com/rafarfelipe/shortbeyond-e2e-performance">shortbeyond-e2e-performance</a> | Performance & E2E | JavaScript | 🟢 Ativo |
+| 5 | <a href="https://github.com/rafarfelipe/projeto-playwright-QAx">projeto-playwright-QAx</a> | Automação web | Playwright, TS | 🟢 Ativo |
+| 6 | <a href="https://github.com/rafarfelipe/betalent-qa-test-">betalent-qa-test-</a> | Testes automatizados | JavaScript | 🟢 Ativo |
 
-### 3. **selenium-northwind** 
-Automação web com Selenium, Java e JUnit
-
-### 4. **shortbeyond-e2e-performance** 
-Testes de performance e E2E em JavaScript
-
-### 5. **projeto-playwright-QAx** 
-Automação web com Playwright e TypeScript
-
-### 6. **betalent-qa-test-** 
-Automação web com JavaScript
+</div>
 
 ---
 
