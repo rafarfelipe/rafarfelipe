@@ -34,6 +34,28 @@ Tenho interesse e venho aprimorando conhecimentos em **Quality Engineering, QAOp
 
 ---
 
+## 📂 Projetos Iconicos
+
+### 1. **qa-sql-pro** 
+Testes de dados com PLpgSQL e SQL
+
+### 2. **maestro-testes-mobile** 
+Automação mobile com Maestro, TypeScript e GitHub Actions
+
+### 3. **selenium-northwind** 
+Automação web com Selenium, Java e JUnit
+
+### 4. **shortbeyond-e2e-performance** 
+Testes de performance e E2E em JavaScript
+
+### 5. **projeto-playwright-QAx** 
+Automação web com Playwright e TypeScript
+
+### 6. **betalent-qa-test-** 
+Automação web com JavaScript
+
+---
+
 ## Tecnologias
 
 <p align="center">
