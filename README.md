@@ -61,7 +61,7 @@ Tenho interesse e venho aprimorando conhecimentos em **Quality Engineering, QAOp
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafarfelipe&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+<img src="https://reporamatic.vercel.app/api/pacman?user=rafarfelipe&theme=dark" width="100%" />
 
 </div>
 
