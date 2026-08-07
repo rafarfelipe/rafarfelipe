@@ -16,14 +16,16 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════════════════╗
 ║  ▓▓▓ INITIALIZING SYSTEM ▓▓▓                                       ║
 ║  ▓▓▓ LOADING NEURAL INTERFACE ▓▓▓                                  ║
 ║  ▓▓▓ CONNECTING TO GITHUB CORE ▓▓▓                                 ║
 ║  ▓▓▓ AUTHENTICATING USER: RAFAEL FELIPE ▓▓▓                        ║
 ║  ▓▓▓ ACCESS GRANTED ▓▓▓                                            ║
-╚══════════════════════════════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <br>
 
@@ -36,27 +38,8 @@
 <br><br>
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  [●] SYSTEM STATUS: ONLINE          UPTIME: 99.99%          │
-│  [●] USER: rafarfelipe              CLEARANCE: ALPHA        │
-│  [●] LOCATION: GitHub Profile       MODE: DARK / NEON       │
-│  [●] NEURAL LINK: STABLE            PROTOCOL: JARVIS-v3.7.2  │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rafarfelipe&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge&labelColor=050505" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/rafarfelipe?label=FOLLOWERS&style=for-the-badge&color=7B2FFF&labelColor=050505" alt="Followers" />
-&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-QUALITY%20ENGINEERING-00F5FF?style=for-the-badge&labelColor=050505" alt="Focus" />
-
-<br><br>
-
-```
 ═══════════════════════════════════════════════════════════════════
-   >>> WELCOME TO THE QUALITY MATRIX — PRESS ANY KEY TO CONTINUE <<<
+>>> WELCOME TO THE QUALITY MATRIX — PRESS ANY KEY TO CONTINUE <<<
 ═══════════════════════════════════════════════════════════════════
 ```
 
@@ -102,12 +85,12 @@ rafarfelipe
 > Decrypting personal data...
 > Identity verified.
 
-╔══════════════════════════════════╗
+╔══════════════════════════════════════════════════════════════════╗
 ║  NAME:     Rafael Felipe        ║
 ║  ROLE:     QA Automation Eng.   ║
 ║  STUDIES:  Software Engineering ║
 ║  STATUS:   Always Learning      ║
-╚══════════════════════════════════╝
+╚══════════════════════════════════════════════════════════════════╝
 
 ┌──[root@jarvis-qa]─[~]
 └──╼ $[mission --describe]
@@ -1066,11 +1049,11 @@ progress: "██░░░░░░░░ 20%"
 ┌──[root@jarvis-qa]─[~]
 └──╼ $[mission --status]
 
-╔════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════════════════╗
 ║  MISSION: Quality Engineering Excellence   ║
 ║  STATUS:  In Progress                      ║
 ║  CLEARANCE: Alpha                          ║
-╚════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════════════════════╝
 
 ┌──[root@jarvis-qa]─[~]
 └──╼ $[mission --progress]
@@ -1208,9 +1191,9 @@ current_objectives:
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://streak-stats.demolab.com?user=rafarfelipe&theme=tokyonight&hide_border=true&background=050505&stroke=00F5FF&ring=7B2FFF&fire=00F5FF&currStreakLabel=7B2FFF&sideLabels=00F5FF&dates=7B2FFF&currStreakNum=00F5FF&sideNums=00F5FF" alt="GitHub Streak" />
-
 </div>
+
+<img src="https://streak-stats.demolab.com?user=rafarfelipe&theme=tokyonight&hide_border=true&background=050505&stroke=00F5FF&ring=7B2FFF&fire=00F5FF&currStreakLabel=7B2FFF&sideLabels=00F5FF&dates=7B2FFF&currStreakNum=00F5FF&sideNums=00F5FF" alt="GitHub Streak" />
 
 ---
 
@@ -1224,9 +1207,9 @@ current_objectives:
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafarfelipe&theme=tokyo-night&hide_border=true&bg_color=050505&color=00F5FF&line=7B2FFF&point=00F5FF&area=true&area_color=7B2FFF" alt="Activity Graph" width="100%" />
-
 </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafarfelipe&theme=tokyo-night&hide_border=true&bg_color=050505&color=00F5FF&line=7B2FFF&point=00F5FF&area=true&area_color=7B2FFF" alt="Activity Graph" width="100%" />
 
 ---
 
@@ -1241,9 +1224,9 @@ current_objectives:
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=rafarfelipe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=00F5FF&text_color=00F5FF&icon_color=7B2FFF" alt="GitHub Trophies" />
-
 </div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rafarfelipe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=00F5FF&text_color=00F5FF&icon_color=7B2FFF" alt="GitHub Trophies" />
 
 ---
 
@@ -1259,127 +1242,13 @@ current_objectives:
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph.svg" />
   <img alt="github pacman contribution graph" src="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg" />
 </picture>
-
-</div>
-
----
-
-## 🎓 CERTIFICATIONS — UPCOMING CLEARANCE LEVELS
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ▓▓▓ CERTIFICATION TRACK LOADED ▓▓▓                             ║
-║  ▓▓▒ FUTURE CREDENTIALS PLANNED ▓▓▓                              ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="33%" align="center">
-
-### 🏅 ISTQB Foundation
-
-<img src="https://img.shields.io/badge/STATUS-Planned-7B2FFF?style=for-the-badge&labelColor=050505" /><br>
-<img src="https://img.shields.io/badge/LEVEL-Foundation-00F5FF?style=for-the-badge&labelColor=050505" /><br><br>
-
-<sub>
-International Software Testing<br>
-Qualifications Board<br><br>
-🎯 Core QA fundamentals<br>
-🎯 Test design techniques<br>
-🎯 Test management<br>
-</sub>
-
-</td>
-<td width="33%" align="center">
-
-### 🏅 ISTQB Advanced
-
-<img src="https://img.shields.io/badge/STATUS-Future-7B2FFF?style=for-the-badge&labelColor=050505" /><br>
-<img src="https://img.shields.io/badge/LEVEL-Advanced-00F5FF?style=for-the-badge&labelColor=050505" /><br><br>
-
-<sub>
-Advanced Test Analyst<br>
-Technical Test Analyst<br><br>
-🎯 Advanced test design<br>
-🎯 Test automation strategy<br>
-🎯 Quality engineering<br>
-</sub>
-
-</td>
-<td width="33%" align="center">
-
-### 🏅 Selenium / Playwright
-
-<img src="https://img.shields.io/badge/STATUS-Future-7B2FFF?style=for-the-badge&labelColor=050505" /><br>
-<img src="https://img.shields.io/badge/LEVEL-Automation-00F5FF?style=for-the-badge&labelColor=050505" /><br><br>
-
-<sub>
-Certified Automation Engineer<br><br>
-🎯 Framework architecture<br>
-🎯 CI/CD integration<br>
-🎯 Best practices<br>
-</sub>
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-### 🏅 AWS Cloud Practitioner
-
-<img src="https://img.shields.io/badge/STATUS-Future-7B2FFF?style=for-the-badge&labelColor=050505" /><br>
-<img src="https://img.shields.io/badge/LEVEL-Cloud-00F5FF?style=for-the-badge&labelColor=050505" /><br><br>
-
-<sub>
-Cloud Foundations<br><br>
-🎯 Cloud fundamentals<br>
-🎯 AWS core services<br>
-🎯 Cloud testing readiness<br>
-</sub>
-
-</td>
-<td width="33%" align="center">
-
-### 🏅 Docker & Kubernetes
-
-<img src="https://img.shields.io/badge/STATUS-Future-7B2FFF?style=for-the-badge&labelColor=050505" /><br>
-<img src="https://img.shields.io/badge/LEVEL-DevOps-00F5FF?style=for-the-badge&labelColor=050505" /><br><br>
-
-<sub>
-Container & Orchestration<br><br>
-🎯 Containerization<br>
-🎯 Test environment automation<br>
-🎯 Scalable test infra<br>
-</sub>
-
-</td>
-<td width="33%" align="center">
-
-### 🏅 Scrum / Agile
-
-<img src="https://img.shields.io/badge/STATUS-Future-7B2FFF?style=for-the-badge&labelColor=050505" /><br>
-<img src="https://img.shields.io/badge/LEVEL-Methodology-00F5FF?style=for-the-badge&labelColor=050505" /><br><br>
-
-<sub>
-Agile & Scrum Foundations<br><br>
-🎯 Scrum framework<br>
-🎯 Agile testing mindset<br>
-🎯 Team collaboration<br>
-</sub>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -1392,6 +1261,8 @@ Agile & Scrum Foundations<br><br>
 ║  ▓▓▓ ESTABLISHING NEURAL LINKS ▓▓▓                              ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <a href="https://github.com/rafarfelipe">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=050505" />
@@ -1441,6 +1312,8 @@ Agile & Scrum Foundations<br><br>
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=rafarfelipe&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge&labelColor=050505" alt="Profile Views" />
@@ -1463,9 +1336,9 @@ Agile & Scrum Foundations<br><br>
 <br>
 
 ```
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
    ▓▓▓  END OF TRANSMISSION  ▓▓▓
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 ---
@@ -1475,6 +1348,3 @@ Agile & Scrum Foundations<br><br>
 🤖 **Generated with cyberpunk precision by Rafael Felipe** | ⭐ **Star this profile if you appreciate quality engineering**
 
 </sub>
-
-</div>
-
