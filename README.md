@@ -187,16 +187,16 @@ Atuo em toda a stack de qualidade — testes manuais exploratórios, automação
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafarfelipe&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&count_private=true&include_all_commits=true" alt="Estatísticas" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarfelipe&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&langs_count=8" alt="Linguagens" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rafarfelipe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarfelipe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens" width="49%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rafarfelipe&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=58a6ff&sideNums=c9d1d9" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=rafarfelipe&theme=tokyonight&hide_border=true" alt="Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafarfelipe&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Gráfico de Atividade" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafarfelipe&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade" width="100%"/>
 
 </div>
 
@@ -206,7 +206,7 @@ Atuo em toda a stack de qualidade — testes manuais exploratórios, automação
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rafarfelipe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Troféus" />
+<img src="https://github-profile-trophy.vercel.app/?username=rafarfelipe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Troféus" />
 
 </div>
 
