@@ -1,226 +1,72 @@
 <div align="center">
 
-# Rafael Felipe
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00C9FF&height=240&section=header&text=Felipe%20Gabriel&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Software%20Quality%20Engineering&descAlignY=60&descSize=20" width="100%" />
 
-**Engenheiro de QA Automation · Estudante de Engenharia de Software**
+</div>
 
-<br/>
+<div align="center">
 
-<a href="https://github.com/rafarfelipe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rafaelrfelipe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rafarfelipe91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1800&pause=800&color=00C9FF&center=true&vCenter=true&width=900&lines=QA+Engineer+|+Test+Automation;E2E+|+API+|+Performance+Testing;CI/CD+|+QAOps+|+Azure;Quality+Engineering+|+AI+|+Security"/>
 
 </div>
 
 ---
 
-## Sobre
+## 🧪 Sobre mim
 
-Sou Engenheiro de QA Automation e estudante de Engenharia de Software, focado em construir **suítes de teste rápidas, confiáveis e escaláveis** que dão às equipes confiança para entregar.
+**QA Engineer** com atuação em **qualidade de software, automação de testes e validação de aplicações Web e APIs**.
 
-Atuo em toda a stack de qualidade — testes manuais exploratórios, automação web e mobile, contratos de API REST, validação de banco de dados e gates de CI/CD. Meu objetivo é tornar a qualidade parte inegociável do pipeline de entrega.
+Atuo na identificação de riscos, elaboração e execução de cenários de teste, automação e validação de funcionalidades, buscando aumentar a confiabilidade e a qualidade das entregas.
 
----
+Minha stack inclui **Cypress, Playwright, Appium, Postman, Git, Docker, JavaScript, Java, Python e SQL**.
 
-## Stack Tecnológica
+Tenho interesse e venho aprimorando conhecimentos em **Quality Engineering, QAOps, Application Security e AI-Assisted Testing**, buscando aplicar boas práticas e estratégias que contribuam para processos de desenvolvimento mais eficientes e produtos mais confiáveis.
 
-<table align="center">
-<tr>
-<th align="center">Categoria</th>
-<th align="center">Tecnologias</th>
-</tr>
-<tr>
-<td valign="top" width="22%"><b>Linguagens</b></td>
-<td valign="top">
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Automação & Testes</b></td>
-<td valign="top">
-
-<img src="https://skillicons.dev/icons?i=cypress,playwright" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maestro-7B2FFF?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_Assured-00A98F?style=flat-square"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Bancos de Dados</b></td>
-<td valign="top">
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>DevOps & CI/CD</b></td>
-<td valign="top">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Gestão de QA</b></td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xray-7B2FFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square&logo=testrail&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Ferramentas & Editores</b></td>
-<td valign="top">
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,cursor&theme=dark" />
-
-</td>
-</tr>
-</table>
+> **Qualidade deve estar presente em todo o ciclo de desenvolvimento, desde a definição do requisito até a entrega do produto.**
 
 ---
-
-## Projetos
-
-<table align="center">
-<thead>
-<tr>
-<th align="left">Projeto</th>
-<th align="left">Tipo</th>
-<th align="left">Stack</th>
-<th align="center">Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b><a href="https://github.com/rafarfelipe/qa-sql-pro">qa-sql-pro</a></b></td>
-<td>Testes de Dados</td>
-<td>PLpgSQL · SQL</td>
-<td align="center">Ativo</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/rafarfelipe/maestro-testes-mobile">maestro-testes-mobile</a></b></td>
-<td>Automação Mobile</td>
-<td>Maestro · TypeScript · GitHub Actions</td>
-<td align="center">Ativo</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/rafarfelipe/selenium-northwind">selenium-northwind</a></b></td>
-<td>Automação Web</td>
-<td>Selenium · Java · JUnit</td>
-<td align="center">Ativo</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/rafarfelipe/shortbeyond-e2e-performance">shortbeyond-e2e-performance</a></b></td>
-<td>Performance / E2E</td>
-<td>JavaScript</td>
-<td align="center">Ativo</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/rafarfelipe/projeto-playwright-QAx">projeto-playwright-QAx</a></b></td>
-<td>Automação Web</td>
-<td>Playwright · TypeScript</td>
-<td align="center">Ativo</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/rafarfelipe/betalent-qa-test-">betalent-qa-test-</a></b></td>
-<td>Automação Web</td>
-<td>JavaScript</td>
-<td align="center">Ativo</td>
-</tr>
-</tbody>
-</table>
-
----
-
-## Expertise em QA
-
-<table align="center">
-<thead>
-<tr>
-<th align="left">Área</th>
-<th align="center">Nível</th>
-</tr>
-</thead>
-<tbody>
-<tr><td>Testes Manuais & Exploratórios</td><td align="center">Avançado · Ativo</td></tr>
-<tr><td>Automação de Testes (Cypress / Playwright / Maestro)</td><td align="center">Avançado · Ativo</td></tr>
-<tr><td>Regressão, Smoke & Sanity</td><td align="center">Avançado · Ativo</td></tr>
-<tr><td>Testes de API (REST / Postman / Newman / REST Assured)</td><td align="center">Avançado · Ativo</td></tr>
-<tr><td>Testes Mobile (fluxos Maestro)</td><td align="center">Avançado · Ativo</td></tr>
-<tr><td>CI/CD (GitHub Actions · Docker)</td><td align="center">Avançado · Ativo</td></tr>
-<tr><td>Testes de Banco de Dados (SQL · PostgreSQL · MySQL)</td><td align="center">Avançado · Ativo</td></tr>
-<tr><td>BDD (Cucumber · Gherkin)</td><td align="center">Intermediário · Ativo</td></tr>
-<tr><td>Testes de Performance (k6 · JMeter)</td><td align="center">Intermediário · Aprendendo</td></tr>
-<tr><td>Planejamento & Documentação de Testes</td><td align="center">Avançado · Ativo</td></tr>
-<tr><td>Reporte de Bugs (Jira · Xray)</td><td align="center">Avançado · Ativo</td></tr>
-</tbody>
-</table>
-
----
-
-## Foco Atual
-
-- Aprofundar padrões avançados de Playwright e análise de traces
-- Fortalecer testes de componentes e API com Cypress
-- Construir suítes de performance com k6
-- Dominar Docker e orquestração de containers para ambientes de teste
-- Expandir cobertura de pipelines no GitHub Actions
-- Explorar geração de testes assistida por IA
-
-**Roadmap de aprendizado:** Plataformas de teste cloud-native → Testes de segurança → Arquitetura SDET.
-
----
-
-## Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafarfelipe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarfelipe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens" width="49%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rafarfelipe&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafarfelipe&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade" width="100%"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 
 </div>
 
 ---
 
-## Conquistas
+Tecnologias
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rafarfelipe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Troféus" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/PactumJS-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artillery-222222?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Testing-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_Judge-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maestro-7B2FFF?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bruno-5D5D5D?style=for-the-badge&logo=getpostman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
-</div>
+</p>
 
 ---
-
-## Gráfico de Contribuições
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph.svg"/>
-  <img alt="gráfico de contribuições pacman" src="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg"/>
-</picture>
+ **"Insanidade é continuar fazendo sempre a mesma coisa e esperar resultados diferentes."** - *Albert Eisten* 
 
 </div>
 
@@ -228,10 +74,6 @@ Atuo em toda a stack de qualidade — testes manuais exploratórios, automação
 
 <div align="center">
 
-<sub><b>Qualidade não é um ato, é um hábito.</b> — Aristóteles</sub>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=rafarfelipe&label=VISUALIZAÇÕES&color=blue&style=for-the-badge" alt="Visualizações"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A00FF&height=120&section=footer" width="100%"/>
 
 </div>
