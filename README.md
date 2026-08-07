@@ -1247,21 +1247,22 @@ current_objectives:
 
 ---
 
-## 🐍 SNAKE CONTRIBUTION — DARK PROTOCOL
+## 🕹️ PACMAN CONTRIBUTION — DARK PROTOCOL
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  ▓▓▓ SNAKE PROTOCOL ENGAGED ▓▓▓                                 ║
+║  ▓▓▓ PACMAN PROTOCOL ENGAGED ▓▓▓                                 ║
+║  ▓▓▓ CONSUMING CONTRIBUTION DOTS ▓▓▓                             ║
 ║  ▓▓▓ DARK MODE ACTIVE ▓▓▓                                        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph.svg" />
+  <img alt="github pacman contribution graph" src="https://raw.githubusercontent.com/rafarfelipe/rafarfelipe/output/pacman-contribution-graph-dark.svg" />
 </picture>
 
 </div>
