@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00C9FF&height=240&section=header&text=Felipe%20Gabriel&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Software%20Quality%20Engineering&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00C9FF&height=240&section=header&text=Rafael%20Felipe&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Software%20Quality%20Engineering&descAlignY=60&descSize=20" width="100%" />
 
 </div>
 
@@ -61,7 +61,7 @@ Tenho interesse e venho aprimorando conhecimentos em **Quality Engineering, QAOp
 
 <div align="center">
 
-<img src="https://streak-summary.vercel.app/api?user=rafarfelipe&theme=dark" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafarfelipe&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 
 </div>
 
