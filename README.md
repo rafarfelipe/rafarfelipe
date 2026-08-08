@@ -18,7 +18,7 @@
 
 Atuo na identificação de riscos, elaboração e execução de cenários de teste, automação e validação de funcionalidades, buscando aumentar a confiabilidade e a qualidade das entregas.
 
-Minha stack inclui **Cypress, Playwright, Appium, Postman, Git, Docker, JavaScript, Java, Python e SQL**.
+Minha stack inclui **Cypress, Playwright, Maestro, Postman, Git, Docker, JavaScript, Java, Python e SQL**.
 
 Tenho interesse e venho aprimorando conhecimentos em **Quality Engineering, QAOps, Application Security e AI-Assisted Testing**, buscando aplicar boas práticas e estratégias que contribuam para processos de desenvolvimento mais eficientes e produtos mais confiáveis.
 
